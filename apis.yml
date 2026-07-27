@@ -1,8 +1,14 @@
 aid: high-alpha
 name: High Alpha
-description: 'High Alpha is a company surfaced as a portfolio company of emergence-capital and added to
-  the API Evangelist network as a stub for enrichment. Sector: venture-studio. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'High Alpha is a venture firm and venture studio based in Indianapolis,
+  Indiana that creates and funds early-stage B2B SaaS companies. Through its Capital
+  arm it makes pre-seed to Series B investments across the United States, and through
+  its Studio it co-founds companies with entrepreneurs, providing design, brand, marketing,
+  recruiting, product design, and go-to-market services. Founded by ExactTarget co-founder
+  and CEO Scott Dorsey along with Eric Tobias, Mike Fitzgerald, and Studio Science
+  founder Kristian Andersen, High Alpha pioneered the venture studio model and publishes
+  the annual SaaS Benchmarks Report. Studio and portfolio companies include Salesloft,
+  Lessonly, Attentive, Logik.ai, LogicGate, Dwolla, Zylo, and project44.'
 url: https://raw.githubusercontent.com/api-evangelist/high-alpha/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +16,30 @@ x-backed-by:
 - emergence-capital
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/6549708e39df0d503dfabcb6/65550610f20c9ee74197eb43_ha-opengraph.webp
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Venture Studio
+- Venture Capital
+- B2B SaaS
+- Startups
+- Investment
+- Enterprise Software
+- Indianapolis
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +49,32 @@ maintainers:
 common:
 - type: Website
   url: https://www.highalpha.com
+- type: LLMsTxt
+  url: llms/high-alpha-llms.txt
+- type: DomainSecurity
+  url: security/high-alpha-domain-security.yml
+- type: Blog
+  url: https://www.highalpha.com/blog
+- type: News
+  url: https://www.highalpha.com/news
+- type: About
+  url: https://www.highalpha.com/about
+- type: Team
+  url: https://www.highalpha.com/team
+- type: Portfolio
+  url: https://www.highalpha.com/companies
+- type: Careers
+  url: https://talent.highalpha.com/jobs
+- type: Support
+  url: https://www.highalpha.com/contact
+- type: PrivacyPolicy
+  url: https://www.highalpha.com/privacy-policy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/high-alpha/
+- type: Twitter
+  url: https://twitter.com/highalpha
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

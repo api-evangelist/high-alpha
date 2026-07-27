@@ -1,0 +1,20 @@
+# High Alpha
+
+> High Alpha is a venture firm based in Indianapolis, IN. We create and fund B2B SaaS companies — partnering with founders to build businesses that reach their full potential. We're early-stage investors, and fund companies across the United States.
+
+## Investment in Early Stage B2B SaaS Companies
+- [Investment Types](/capital): High Alpha invests in pre-seed to Series B B2B SaaS companies. Many times, the firm will back an anchor investment in a Series A financing, leading the round and taking a board seat. High Alpha also invests in Seed, Series A, and Series B rounds alongside trusted investors, which we call co-investing. 
+A detailed overview of the different funding rounds and capital types we offer.
+- [Studio Starts](/studio): In addition to investing in early-stage B2B SaaS companies, High Alpha starts companies with founders through its Studio. The Studio offers founders services in design, brand, marketing, HR, recruiting, product design, and go-to-market to help founders go faster.
+- [Portfolio](/portfolio): High Alpha's Studio companies and investments include: Airwave, Alloy Partners, Amplio, Anvl, AskElephant, Attentive, Authentic, Backstroke, Base, Bearing, Bearable, Boost My School, Bookkeeper, Canopy, Casted, Castiron, Chain.io, Champion, Civitas Learning, ClearScholar, Common Trust, Cordial, Craft, CrowdRiff, Cured, Dinara, Docket, Doxly, DroneDeploy, Dwolla, Empower Delivery, Encamp, Engage Talent, Escala, Filo, Flaunt, G2, Humankind, Idemeum, Integrate, Kadence, Kevala, Lessonly, Liminal, LogicGate, Logik.ai, Luster, Malomo, Metaimpact, Nacelle, Narvar, Nostra AI, Octiv, Orbiit, Paccurate, Pattern89, Pillar, Pimly, Podchaser, project44, RISE, Rheaply, Salesloft, Shaker, Sigstr, Sinai Technologies, Singuli, Smartwyre, Socio, Stitch, Superside, Tavus, Tenon, Terminus, The Mom Project, Tiny Pulse, Topo, Trava, Valence, Vibenomics, Visible, When I Work, Wholesail, Woven, Writ, Zylo.
+
+## About the High Alpha Team
+- [About High Alpha](/about): High Alpha led the way in creating the venture studio model, combining company starts with an investment fund. High Alpha's co-founding partners include ExactTarget CEO and Co-Founder Scott Dorsey, iGoDigital CEO and Founder Eric Tobias, Mike Fitzgerald, and Studio Science Founder and CEO Kristian Andersen.
+- [High Alpha Team](/team): The team at High Alpha consists of co-founder partners Scott Dorsey, Eric Tobias, Kristian Andersen, and Mike Fitzgerald. Other partners on the team include CFO Blake Koriath and Mike Langellier. The Ops team includes Amanda Carroll, Marianne Bartos, Melissa Nauert, and Katherine Lachowiez. The platform team consists of Mollie Kuramoto, Jon Hubartt, Claire Kelley, and Ashley Blevins. Brooke Lamb supports HR and benefits, and Tara Lemieux serves as our accountant. Katelyn Vierk is an associate on the investment team. Eric Goodman is our general counsel.
+
+## SaaS Benchmarks Report
+- [2024 SaaS Benchmarks Report](/2024-saas-benchmarks-report): Download the latest annual report on key performance indicators (KPIs) and trends in B2B SaaS. This annual report contains data from over 800 B2B SaaS companies, covering metrics like growth rate, net revenue retention, gross revenue retention, ARR per full time employee, customer acquisition cost, pricing models, and more.
+
+## Optional
+- [Latest Blog Posts](/blog): Recent articles and insights from the High Alpha team and portfolio founders.
+- [News](/news): Announcements, press releases, and major media coverage for the firm and our companies.
