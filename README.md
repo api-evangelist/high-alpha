@@ -64,6 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-High Alpha is a company surfaced as a portfolio company of emergence-capital and added to the API Evangelist network as a stub for enrichment. Sector: venture-studio. This profile is a lead awaiting the enrichment pipeline.
+High Alpha is a venture firm and venture studio based in Indianapolis, Indiana that creates and funds early-stage B2B SaaS companies. Through its Capital arm it makes pre-seed to Series B investments across the United States, and through its Studio it co-founds companies with entrepreneurs, providing design, brand, marketing, recruiting, product design, and go-to-market services. Founded by ExactTarget co-founder and CEO Scott Dorsey along with Eric Tobias, Mike Fitzgerald, and Studio Science founder Kristian Andersen, High Alpha pioneered the venture studio model and publishes the annual SaaS Benchmarks Report. Studio and portfolio companies include Salesloft, Lessonly, Attentive, Logik.ai, LogicGate, Dwolla, Zylo, and project44.
 
-Backed by: emergence-capital — https://www.highalpha.com
+**Areas:** Company · Venture Studio · Venture Capital · B2B SaaS · Startups · Investment · Enterprise Software · Indianapolis
+
+## High Alpha on APIs.io
+
+Everything profiled for High Alpha is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/high-alpha/](https://apis.io/providers/high-alpha/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [High Alpha Domain Security](https://apis.io/security/high-alpha/high-alpha-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.highalpha.com)
+- [Support](https://www.highalpha.com/contact)
+- [Blog](https://www.highalpha.com/blog)
+- [Privacy policy](https://www.highalpha.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 8.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/high-alpha/](https://apis.io/providers/high-alpha/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for High Alpha: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/high-alpha/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
